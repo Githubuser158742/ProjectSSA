@@ -1,0 +1,26 @@
+﻿@model PMOrganisationRegister
+<h2>Kassa Aanpassen @ViewBag.Organisation.OrganisationName:@ViewBag.Organisation.Login</h2>
+@using (Html.BeginForm("EditRegister", "Organisation", FormMethod.Post))
+{
+    <input type="hidden" name="oldOrganisationID" id="oldOrganisationID" value="@ViewBag.oldId" />
+    @Html.HiddenFor(a => a.RegisterID)
+    @Html.HiddenFor(a => a.FromDate)
+    @Html.HiddenFor(a => a.UntilDate)
+    <table class="form">
+        <tr>
+            <td>@Html.LabelFor(a => a.OrganisationName)</td>
+            <td>@Html.DropDownListFor(a => a.OrganisationID, Model.NewOrganisation)</td>
+            <td>@Html.ValidationMessageFor(a => a.OrganisationID)</td>
+        </tr>
+        <tr>
+            <td><input type="submit" value="Aanpassen" /></td>
+            <td>
+                <a href="/Organisation/Register?id=@ViewBag.oldId">
+                    <input type="button" value="Keer Terug" />
+                </a>
+            </td>
+        </tr>
+    </table>
+}
+
+

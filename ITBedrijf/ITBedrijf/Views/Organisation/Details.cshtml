@@ -1,0 +1,47 @@
+﻿@model ITBedrijf.Models.Organisation
+<h2>Detail</h2>
+@using (Html.BeginForm("Index", "Organisation", FormMethod.Post))
+{
+    <table class="form">
+        <tr>
+            <td class="title">Persoonlijke Gegevens</td>
+            <td class="title"></td>
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(a => a.Login)</td>
+            <td>@Html.ValueFor(a => a.Login)</td>
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(a => a.Address)</td>
+            <td>@Html.ValueFor(a => a.Address)</td>
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(a => a.Email)</td>
+            <td>@Html.ValueFor(a => a.Email)</td>
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(a => a.Phone)</td>
+            <td>@Html.ValueFor(a => a.Phone)</td>
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(a => a.OrganisationName)</td>
+            <td>@Html.ValueFor(a => a.OrganisationName)</td>
+        </tr>
+        <tr>
+            <td class="title">Database Gegevens</td>
+            <td class="title"></td>
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(a => a.DbLogin)</td>
+            <td>@Html.ValueFor(a => a.DbLogin)</td>
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(a => a.DbName)</td>
+            <td>@Html.ValueFor(a => a.DbName)</td>
+        </tr>
+        <tr>
+            <td><input type="submit" name="Back" value="Keer Terug" /></td>
+            <td></td>
+        </tr>
+    </table>
+}

@@ -1,0 +1,177 @@
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\ITBedrijf.dll.config
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\ITBedrijf.dll
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\ITBedrijf.pdb
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\Antlr3.Runtime.dll
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\EntityFramework.dll
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\EntityFramework.SqlServer.dll
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.dll
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.Security.dll
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\Newtonsoft.Json.dll
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\Owin.dll
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\PostSharp.dll
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\System.Web.Helpers.dll
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\System.Web.Mvc.dll
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\System.Web.Optimization.dll
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\System.Web.Razor.dll
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\System.Web.WebPages.dll
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\WebGrease.dll
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\PostSharp.xml
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\System.Web.Helpers.xml
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\System.Web.Mvc.xml
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\System.Web.Optimization.xml
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\System.Web.Razor.xml
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\System.Web.WebPages.xml
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\Antlr3.Runtime.pdb
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\Newtonsoft.Json.xml
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\EntityFramework.xml
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\EntityFramework.SqlServer.xml
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.xml
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.Security.xml
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\obj\Debug\ProjectSSA.csprojResolveAssemblyReference.cache
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\obj\Debug\ITBedrijf.Migrations.initdatabase.resources
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\obj\Debug\ProjectSSA.csproj.GenerateResource.Cache
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\obj\Debug\ITBedrijf.dll
+C:\Users\Jim\Desktop\ITBedrijf-master\ITBedrijf-master\ITBedrijf\ITBedrijf\obj\Debug\ITBedrijf.pdb
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\ITBedrijf.dll.config
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\ITBedrijf.dll
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\ITBedrijf.pdb
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\Antlr3.Runtime.dll
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\EntityFramework.dll
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\EntityFramework.SqlServer.dll
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.dll
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.Security.dll
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\Newtonsoft.Json.dll
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\Owin.dll
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\PostSharp.dll
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\System.Web.Helpers.dll
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\System.Web.Mvc.dll
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\System.Web.Optimization.dll
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\System.Web.Razor.dll
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\System.Web.WebPages.dll
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\WebGrease.dll
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\PostSharp.xml
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\System.Web.Helpers.xml
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\System.Web.Mvc.xml
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\System.Web.Optimization.xml
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\System.Web.Razor.xml
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\System.Web.WebPages.xml
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\Antlr3.Runtime.pdb
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\Newtonsoft.Json.xml
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\EntityFramework.xml
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\EntityFramework.SqlServer.xml
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.xml
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.Security.xml
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\obj\Debug\ProjectSSA.csprojResolveAssemblyReference.cache
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\obj\Debug\ITBedrijf.Migrations.initdatabase.resources
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\obj\Debug\ProjectSSA.csproj.GenerateResource.Cache
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\obj\Debug\ITBedrijf.dll
+C:\Users\Jim\Desktop\ITBedrijf\ITBedrijf\obj\Debug\ITBedrijf.pdb
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\ITBedrijf.dll.config
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\ITBedrijf.dll
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\ITBedrijf.pdb
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\Antlr3.Runtime.dll
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\EntityFramework.dll
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\EntityFramework.SqlServer.dll
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.dll
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.Security.dll
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\Newtonsoft.Json.dll
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\Owin.dll
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\PostSharp.dll
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\System.Web.Helpers.dll
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\System.Web.Mvc.dll
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\System.Web.Optimization.dll
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\System.Web.Razor.dll
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\System.Web.WebPages.dll
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\WebGrease.dll
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\PostSharp.xml
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\System.Web.Helpers.xml
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\System.Web.Mvc.xml
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\System.Web.Optimization.xml
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\System.Web.Razor.xml
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\System.Web.WebPages.xml
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\Antlr3.Runtime.pdb
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\Newtonsoft.Json.xml
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\EntityFramework.xml
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\EntityFramework.SqlServer.xml
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.xml
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.Security.xml
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\obj\Debug\ProjectSSA.csprojResolveAssemblyReference.cache
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\obj\Debug\ITBedrijf.Migrations.initdatabase.resources
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\obj\Debug\ProjectSSA.csproj.GenerateResource.Cache
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\obj\Debug\ITBedrijf.dll
+C:\Users\Jim\Desktop\Project SSA\ITBedrijf\ITBedrijf\obj\Debug\ITBedrijf.pdb

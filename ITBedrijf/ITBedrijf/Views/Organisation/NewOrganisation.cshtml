@@ -1,0 +1,79 @@
+﻿@model PMOrganisation
+<h2>Vereniging Toevoegen</h2>
+@using (Html.BeginForm("NewOrganisation", "Organisation", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <table class="form">
+        <tr>
+            <td class="title">Gegevens</td>
+            <td class="title"></td>
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(a => a.Login)</td>
+            <td>@Html.TextBoxFor(a => a.Login, new { placeholder = Html.DisplayNameFor(a => a.Login) })</td>
+            @Html.ValidationMessageFor(a => a.Login)
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(a => a.Password)</td>
+            <td>@Html.PasswordFor(a => a.Password, new { placeholder = Html.DisplayNameFor(a => a.Password) })</td>
+            @Html.ValidationMessageFor(a => a.Password)
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(a => a.ControlePassword)</td>
+            <td>@Html.PasswordFor(a => a.ControlePassword, new { placeholder = Html.DisplayNameFor(a => a.ControlePassword) })</td>
+            @Html.ValidationMessageFor(a => a.ControlePassword)
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(a => a.Address)</td>
+            <td>@Html.TextBoxFor(a => a.Address, new { placeholder = Html.DisplayNameFor(a => a.Address) })</td>
+            @Html.ValidationMessageFor(a => a.Address)
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(a => a.Email)</td>
+            <td>@Html.TextBoxFor(a => a.Email, new { placeholder = Html.DisplayNameFor(a => a.Email) })</td>
+            @Html.ValidationMessageFor(a => a.Email)
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(a => a.Phone)</td>
+            <td>@Html.TextBoxFor(a => a.Phone, new { placeholder = Html.DisplayNameFor(a => a.Phone) })</td>
+            @Html.ValidationMessageFor(a => a.Phone)
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(a => a.OrganisationName)</td>
+            <td>@Html.TextBoxFor(a => a.OrganisationName, new { placeholder = Html.DisplayNameFor(a => a.OrganisationName) })</td>
+            @Html.ValidationMessageFor(a => a.OrganisationName)
+        </tr>
+        <tr>
+            <td class="title">Database</td>
+            <td class="title"></td>
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(a => a.DbLogin)</td>
+            <td>@Html.TextBoxFor(a => a.DbLogin, new { placeholder = Html.DisplayNameFor(a => a.DbLogin) })</td>
+            @Html.ValidationMessageFor(a => a.DbLogin)
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(a => a.DbName)</td>
+            <td>@Html.TextBoxFor(a => a.DbName, new { placeholder = Html.DisplayNameFor(a => a.DbName) })</td>
+            @Html.ValidationMessageFor(a => a.DbName)
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(a => a.DbPassword)</td>
+            <td>@Html.PasswordFor(a => a.DbPassword, new { placeholder = Html.DisplayNameFor(a => a.DbPassword) })</td>
+            @Html.ValidationMessageFor(a => a.DbPassword)
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(a => a.DbControlePassword)</td>
+            <td>@Html.PasswordFor(a => a.DbControlePassword, new { placeholder = Html.DisplayNameFor(a => a.DbControlePassword) })</td>
+            @Html.ValidationMessageFor(a => a.DbControlePassword)
+        </tr>
+        <tr>
+            <td><input class="inputWidth" type="submit" value="Vereniging Toevoegen" /></td>
+            <td>
+                <a href="/Organisation/Index">
+                    <input class="inputWidth" type="button" value="Keer Terug" />
+                </a>
+            </td>
+        </tr>
+    </table>
+}
+

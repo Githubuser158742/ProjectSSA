@@ -1,0 +1,36 @@
+﻿@model PMRegister
+<h2>Kassa Toevoegen</h2>
+@using (Html.BeginForm("NewRegister", "Register", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <table class="form">
+        <tr>
+            <td>@Html.LabelFor(a => a.RegisterName)</td>
+            <<td>@Html.TextBoxFor(a => a.RegisterName, new { placeholder = Html.DisplayNameFor(a => a.RegisterName) })</td>
+            @Html.ValidationMessageFor(a => a.RegisterName)
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(a => a.Device)</td>
+            <td>@Html.TextBoxFor(a => a.Device, new { placeholder = Html.DisplayNameFor(a => a.Device) })</td>
+            @Html.ValidationMessageFor(a => a.Device)
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(a => a.PurchaseDate)</td>
+            <td><input type="date" value="@DateTime.Today" id="PurchaseDate" name="PurchaseDate" min="@DateTime.Today.Year-@DateTime.Today.Month-@DateTime.Today.Day" /></td>
+            <td><input type="time" value="@DateTime.Today" id="PurchaseTime" name="PurchaseTime" /></td>
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(a => a.ExpireDate)</td>
+            <td><input type="date" value="@DateTime.Today" id="ExpireDate" name="ExpireDate" min="@DateTime.Today.AddDays(1).Year-@DateTime.Today.AddDays(1).Month-@DateTime.Today.AddDays(1).Day" /></td>
+            <td><input type="time" value="@DateTime.Today" id="ExpireTime" name="ExpireTime" /></td>
+        </tr>
+        <tr>
+            <td><input type="submit" value="Kassa Toevoegen" /></td>
+            <td>
+                <a href="/Register/Index">
+                    <input type="button" value="Keer Terug" />
+                </a>
+            </td>
+            <td></td>
+        </tr>
+    </table>
+}

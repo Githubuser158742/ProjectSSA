@@ -1,0 +1,28 @@
+﻿@model PMRegister
+<h2>Kassa Overzicht</h2>
+<table>
+    <tr class="header">
+        <td>@Html.LabelFor(a => a.RegisterName)</td>
+        <td>@Html.LabelFor(a => a.Device)</td>
+        <td>@Html.LabelFor(a => a.PurchaseDate)</td>
+        <td>@Html.LabelFor(a => a.ExpireDate)</td>
+        <td></td>
+    </tr>
+    @foreach (var item in @ViewBag.Register)
+    {
+        <tr class="item">
+            <td>@item.RegisterName</td>
+            <td>@item.Device</td>
+            <td>@item.PurchaseDate</td>
+            <td>@item.ExpireDate</td>
+            <td><a href="/Register/Log?id=@item.Id">Logs</a></td>
+        </tr>
+    }
+    <tr class="link">
+        <td><a href="/Register/NewRegister">Kassa Toevoegen</a></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>

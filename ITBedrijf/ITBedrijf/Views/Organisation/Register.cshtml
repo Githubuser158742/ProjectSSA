@@ -1,0 +1,28 @@
+﻿@model PMOrganisationRegister
+<h2>Kassa's voor @ViewBag.Organisation.OrganisationName:@ViewBag.Organisation.Login</h2>
+<table>
+    <tr class="header">
+        <td class="longer">@Html.LabelFor(a => a.OrganisationName):@Html.LabelFor(a => a.Login)</td>
+        <td class="longer">@Html.LabelFor(a => a.RegisterName):@Html.LabelFor(a => a.Device)</td>
+        <td>@Html.LabelFor(a => a.FromDate)</td>
+        <td>@Html.LabelFor(a => a.UntilDate)</td>
+        <td></td>
+    </tr>
+    @foreach (var item in @ViewBag.Register)
+    {
+        <tr class="item">
+            <td class="longer">@item.OrganisationName:@item.Login</td>
+            <td class="longer">@item.RegisterName:@item.Device</td>
+            <td>@item.FromDate</td>
+            <td>@item.UntilDate</td>
+            <td><a href="/Organisation/EditRegister?organisationID=@ViewBag.Organisation.Id&registerID=@item.RegisterID">Bewerken</a></td>
+        </tr>
+    }
+    <tr class="link">
+        <td class="longer"><a href="/Organisation/NewRegister?id=@ViewBag.Organisation.Id">Kassa Toevoegen</a></td>
+        <td class="longer"><a href="/Organisation/Index">Keer Terug</a></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>

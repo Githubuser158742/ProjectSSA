@@ -1,0 +1,20 @@
+﻿@model PMLog
+<h2>Logs Overzicht</h2>
+<table>
+    <tr class="header">
+        <td class="longer">@Html.LabelFor(a => a.RegisterName):@Html.LabelFor(a => a.Device)</td>
+        <td>@Html.LabelFor(a => a.Timestamp)</td>
+        <td>@Html.LabelFor(a => a.Message)</td>
+        <td>@Html.LabelFor(a => a.Stacktrace)</td>
+    </tr>
+    @foreach (var item in @ViewBag.Log)
+    {
+        <tr class="item">
+            <td class="longer">@item.RegisterName:@item.Device</td>
+            <td>@item.Timestamp</td>
+            <td>@item.Message</td>
+            <td>@item.Stacktrace</td>
+        </tr>
+    }
+</table>
+

@@ -1,0 +1,28 @@
+﻿@model ITBedrijf.Models.Organisation
+<h2>Vereniging Overzicht</h2>
+<table>
+    <tr class="header">
+        <td>@Html.LabelFor(a => a.OrganisationName)</td>
+        <td>@Html.LabelFor(a => a.Email)</td>
+        <td>@Html.LabelFor(a => a.Address)</td>
+        <td>@Html.LabelFor(a => a.Phone)</td>
+        <td></td>
+    </tr>
+    @foreach (var item in @ViewBag.Organisation)
+    {
+        <tr class="item">
+            <td>@item.OrganisationName</td>
+            <td>@item.Email</td>
+            <td>@item.Address</td>
+            <td>@item.Phone</td>
+            <td><a href="/Organisation/Details?id=@item.Id">Details</a> | <a href="/Organisation/Register?id=@item.Id">Kassa's</a> | <a href="/Organisation/Edit?id=@item.Id">Bewerken</a>
+        </tr>
+    }
+    <tr class="link">
+        <td><a href="/Organisation/NewOrganisation">Vereniging Toevoegen</a></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>

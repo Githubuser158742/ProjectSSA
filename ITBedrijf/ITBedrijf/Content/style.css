@@ -1,0 +1,22 @@
+﻿td
+{
+    padding-left:10px;
+    padding-right:10px;
+}
+
+.link > td 
+{
+    padding-top: 10px;
+}
+
+input
+{
+    width:300px;
+}
+
+
+.title
+{
+    font-size: 20px;
+    font-weight: bold;
+}
